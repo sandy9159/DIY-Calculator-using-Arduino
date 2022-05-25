@@ -48,7 +48,6 @@ Now set all the columns to INPUT to make them sense logic HIGH.
 
 
 ![image](https://user-images.githubusercontent.com/19898602/170180946-8fa6b62d-4356-4fa2-a7da-26fb10b5bc4a.png)
-![image](https://user-images.githubusercontent.com/19898602/170180947-e5fed386-29a6-410a-9417-2cd4f3401329.png)
 
 Now as the key is pressed at ROW 3 and COLUMN 2, the current flows as shown in the figure. As all Columns are inputs sensing high, so controller sense that logic HIGH is present at C2 pin and store it in its memory that button pressed is in Column 2.
 
@@ -165,6 +164,52 @@ void DisplayResult()
   // delay(1000); change this to suit your needs
 
 }
+
+
+
+Before moving fuurther I would like to tell you something about PCB
+
+Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
+
+like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to try custom PCB my belief was they are much expensive.
+
+but then I came to know about [JLCPCB.COM](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
+
+there PCB quality is best in market, now I always go with PCB for my project and [JLCPCB.COM](https://jlcpcb.com/IAT) is my trusted 
+
+If you planing to order any PCB for your projects so you can consider [JLCPCB.com](https://jlcpcb.com/IAT) because
+
+I always prefer [JLCPCB.com](https://jlcpcb.com/IAT) for my PCB needs, [JLCPCB.com](https://jlcpcb.com/IAT) have best deals for their customers
+$2 for 1-4 Layer PCBs, free SMT assembly monthly.
+
+If you seriously need quality PCB quickly in your hand then you must have to try JLCPCB PCB manufacturing service. They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly. If new user signup today from this link [JLCPCB.com](https://jlcpcb.com/IAT) you will get welcome coupons from JLCPCB.
+
+
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+![image](https://user-images.githubusercontent.com/19898602/164385177-de123350-4a1f-4d0f-9f38-68ed7dbd5a9f.png)
+
+
+
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $30 valued New User coupons  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $30 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+
 
 
 
